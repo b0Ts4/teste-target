@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Wagner\\Documents\\GitHub\\teste-target\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\Wagner\\Documents\\GitHub\\teste-target\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\Wagner\\Documents\\GitHub\\teste-target\\ConsoleApp1\\teste-target.csproj",
+      "projectName": "teste-target",
+      "projectPath": "C:\\Users\\Wagner\\Documents\\GitHub\\teste-target\\ConsoleApp1\\teste-target.csproj",
       "packagesPath": "C:\\Users\\Wagner\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Wagner\\Documents\\GitHub\\teste-target\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
